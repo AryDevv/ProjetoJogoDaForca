@@ -294,19 +294,6 @@ SELECT * FROM ranking LIMIT 5;
 - [ ] Ranking com `VIEW`
 - [ ] Cadastro de novas palavras pelo menu do jogo
 
-<br>
-
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas. Para sugerir uma melhoria:
-
-1. Faça um **fork** do projeto
-2. Crie uma branch: `git checkout -b feature/minha-ideia`
-3. Faça o commit: `git commit -m "Adiciona minha ideia"`
-4. Envie para o seu fork: `git push origin feature/minha-ideia`
-5. Abra um **Pull Request**
-
-<br>
 
 <div align="center">
 

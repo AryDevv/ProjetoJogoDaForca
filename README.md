@@ -326,9 +326,10 @@ Distribuído sob a licença **MIT**. Veja o arquivo [`LICENSE`](LICENSE) para ma
 
 <img src="https://img.shields.io/badge/feito%20com-Java%20%2B%20SQL-e8a33d?style=flat-square" alt="Feito com Java e SQL">
 
-<p>Feito por <a href="https://github.com/arydevv"><b>AryDevv/b></a></p>
-<p>Feito por <a href="https://github.com/GabrielFranthesco"><b>Gabrie Franthesco/b></a></p>
-<p>Feito por <a href="https://github.com/Ramoncpu"><b>Ramon/b></a></p>
+<p>Feito por: </p>
+<p><a href="https://github.com/arydevv"><b>Arydevv</a></p>
+<p><a href="https://github.com/GabrielFranthesco"><b>GabrieFranthesco/b></a></p>
+<p><a href="https://github.com/Ramoncpu"><b>Ramoncpu/b></a></p>
 
 <sub>Se o projeto te ajudou, deixe uma ⭐ para o boneco não ser enforcado à toa.</sub>
 

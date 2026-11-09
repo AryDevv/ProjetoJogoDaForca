@@ -12,8 +12,6 @@ Um clássico feito em <b>Java</b>, com palavras, jogadores e partidas guardados 
 <p>
   <img src="https://img.shields.io/badge/Java-17%2B-e8a33d?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 17+">
   <img src="https://img.shields.io/badge/SQL-MySQL%208-3a8fb7?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL 8">
-  <img src="https://img.shields.io/badge/JDBC-conectado-1c2826?style=for-the-badge" alt="JDBC">
-  <img src="https://img.shields.io/badge/licen%C3%A7a-MIT-9a6a3e?style=for-the-badge" alt="Licença MIT">
 </p>
 
 <p>
@@ -100,8 +98,6 @@ Digite uma letra: v
 | :-- | :-- | :-- |
 | Linguagem | **Java 17+** | Regras do jogo e interface de terminal |
 | Banco de dados | **MySQL 8** (ou outro SQL compatível) | Palavras, jogadores e partidas |
-| Acesso a dados | **JDBC** + padrão **DAO** | Separar o SQL das regras do jogo |
-| Build | **Maven** | Dependências e execução |
 
 <br>
 

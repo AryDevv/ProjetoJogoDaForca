@@ -314,8 +314,8 @@ Contribuições são bem-vindas. Para sugerir uma melhoria:
 
 <p>Feito por: </p>
 <p><a href="https://github.com/arydevv"><b>Arydevv</a></p>
-<p><a href="https://github.com/GabrielFranthesco"><b>GabrieFranthesco/b></a></p>
-<p><a href="https://github.com/Ramoncpu"><b>Ramoncpu/b></a></p>
+<p><a href="https://github.com/GabrielFranthesco"><b>GabrieFranthesco</a></p>
+<p><a href="https://github.com/Ramoncpu"><b>Ramoncpu</a></p>
 
 <sub>Se o projeto te ajudou, deixe uma ⭐ para o boneco não ser enforcado à toa.</sub>
 

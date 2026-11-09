@@ -11,7 +11,7 @@ Um clássico feito em <b>Java</b>, com palavras, jogadores e partidas guardados 
 
 <p>
   <img src="https://img.shields.io/badge/Java-17%2B-e8a33d?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 17+">
-  <img src="https://img.shields.io/badge/SQL-MySQL%208-3a8fb7?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL 8">
+  <img src="https://img.shields.io/badge/SQL-MySQL%208-3a8fb7?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL 26.10">
 </p>
 
 <p>
@@ -201,8 +201,7 @@ INSERT INTO palavra (texto, categoria, dica, dificuldade) VALUES
 ### Pré-requisitos
 
 - ☕ **JDK 17** ou superior
-- 🐬 **MySQL 8** em execução
-- 📦 **Maven 3.8+**
+- 🐬 **MySQL 26.10** em execução
 
 ### Passo a passo
 
@@ -289,14 +288,11 @@ SELECT * FROM ranking LIMIT 5;
 
 ## 🗺️ Roadmap
 
-- [x] Sorteio de palavras pelo banco de dados
-- [x] Cadastro de jogadores
-- [x] Registro de partidas
-- [x] Ranking com `VIEW`
+- [ ] Sorteio de palavras pelo banco de dados
+- [ ] Cadastro de jogadores
+- [ ] Registro de partidas
+- [ ] Ranking com `VIEW`
 - [ ] Cadastro de novas palavras pelo menu do jogo
-- [ ] Modo para dois jogadores
-- [ ] Interface gráfica com JavaFX
-- [ ] Testes unitários com JUnit
 
 <br>
 
@@ -309,12 +305,6 @@ Contribuições são bem-vindas. Para sugerir uma melhoria:
 3. Faça o commit: `git commit -m "Adiciona minha ideia"`
 4. Envie para o seu fork: `git push origin feature/minha-ideia`
 5. Abra um **Pull Request**
-
-<br>
-
-## 📄 Licença
-
-Distribuído sob a licença **MIT**. Veja o arquivo [`LICENSE`](LICENSE) para mais detalhes.
 
 <br>
 

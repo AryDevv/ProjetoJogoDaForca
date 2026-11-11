@@ -1,0 +1,6 @@
+/**
+ * OuvinteDoBotaoRanking
+ */
+public class OuvinteDoBotaoRanking {
+
+}
